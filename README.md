@@ -1,6 +1,6 @@
 # Flights Delay Prediction
 
-**DSCI 590 — Big Data Analytics & MLOps**
+**MGMT 590 — Big Data Analytics & MLOps**
 
 Predicting whether a flight will be delayed (>15 minutes) using US flight data (2019–2023) and Spark MLlib on Databricks.
 
@@ -74,4 +74,4 @@ Predicting whether a flight will be delayed (>15 minutes) using US flight data (
 
 ## 👥 Authors
 
-DSCI 590 Project Team
+MGMT 590 Project Team
