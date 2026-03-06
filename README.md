@@ -52,8 +52,6 @@ Predicting whether a flight will be delayed (>15 minutes) using US flight data (
 | Logistic Regression | ~0.65 | Baseline |
 | Random Forest | ~0.65 | 100 trees, depth 10 |
 | Tuned Random Forest | ~0.65 | 200 trees, depth 15 |
-| XGBoost (feature engineered) | ~0.68 | Target encoding, engineered features |
-| LightGBM | ~0.68 | Same feature set as XGBoost |
 
 ---
 
